@@ -2,6 +2,11 @@
 
 Kısa bir proje açıklaması buraya gelebilir.
 
+## Proje Ekibi
+- İsim 1, Numara 1, Github Profil linki1
+- İsim 2, Numara 2, Github Profil linki2
+- İsim 3, Numara 3, Github Profil linki3
+  
 ## İçindekiler
 
 - [Proje Hakkında](#proje-hakkında)
@@ -52,9 +57,9 @@ Eğer projeyle ilgili katkıda bulunmak istiyorsanız, katkıda bulunma yönerge
 
 ## Katkı Sağlayanlar
 
-- İsim 1
-- İsim 2
-- İsim 3
+- İsim 1, Github Profil linki1
+- İsim 2, Github Profil linki2
+- İsim 3, Github Profil linki3
 
 ## Lisans
 
