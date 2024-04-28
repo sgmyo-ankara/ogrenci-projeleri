@@ -6,3 +6,5 @@ Yalnızca Ankara Üniversitesi Siber Güvenlik Meslek Yüksekokulu öğrencileri
 ## Kullanım
 Taslak.md dosyasına bakarak projeniz için Readme.md dosyanızı oluşturun, sonrasında ise Taslak.md dosyasında bulunan Katkıda Bulunma bölümünü oluşturarak projenize ait bir Pull Request açın.
 
+Tüm Pull Request'ler yeni proje adının ismiyle oluşturulmuş yeni bir klasör şeklinde olmalıdır.
+
