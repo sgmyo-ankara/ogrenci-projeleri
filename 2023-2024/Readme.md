@@ -8,7 +8,7 @@ Kısa bir proje açıklaması buraya gelebilir.
 - [Gereksinimler](#gereksinimler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Katkıda bulunma](#katkıda-bulunma)
+- [Katkıda Bulunma](#katkıda-bulunma)
 - [Katkı Sağlayanlar](#katkı-sağlayanlar)
 - [Lisans](#lisans)
 
